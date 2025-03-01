@@ -1,0 +1,14 @@
+{
+  "name": "owo-self-bot",
+  "version": "1.0.0",
+  "description": "This is a demo for OwO self bot for discord. Please do not use it as this is against Discord's ToS. The sole purpose of making this program is for educational purpose only.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.6.0"
+  }
+}
